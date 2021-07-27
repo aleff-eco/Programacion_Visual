@@ -1,0 +1,32 @@
+
+
+Instalación de MYSQL 
+
+1.- npm i mysql --save
+
+Primer requerimeinto 
+
+1.- Realizar la conexión de la base de datos desde electron
+2.- Imprimir el estado de conexión 
+3.- Crear un crud a una tabla -> Insert, Delete, Update y Select
+4.- CRUD DATOS CON LOS SIGUIENTES CAMPOS -> nombre, ap_pat, ap_mat y edad
+5.- CREAR UNA TABLA DE DATOS 
+
+1.- PRIMERA ENTREGA SOLO EL INSERT
+2.- Nombre de la tabla "persona"
+
+Subir a repositorio pasos
+1.- git init
+2.- touch .gitignore
+3.- git add .
+4.- git commit -m "comentario"
+5.- git remote add origin "url nuevo repo"
+6.- git push -u origin master
+
+Segunda Vuelta
+1.- git add .
+2.- git commit -m "comentario"
+3.- git push origin master
+
+url MOCKUP
+https://jamboard.google.com/d/1BiJUZHIzu4Yde7Sih8ImS-QFsFvTKOw2LE7aFdpN5Kk/viewer?f=2

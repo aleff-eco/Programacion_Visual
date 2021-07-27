@@ -1,0 +1,21 @@
+{
+  "name": "electron-203714",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleff",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-localstorage": "^2.2.1"
+  }
+}
